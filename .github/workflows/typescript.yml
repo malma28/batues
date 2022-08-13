@@ -2,6 +2,7 @@ name: NodeJS CI
 on: [ "push" ]
 jobs:
   build:
+    name: NodeJS & TypeScript
     runs-on: ubuntu-latest
     strategy:
       matrix:
