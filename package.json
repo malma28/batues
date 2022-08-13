@@ -1,6 +1,6 @@
 {
   "name": "batues",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "decorator-based transform class",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
