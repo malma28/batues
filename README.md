@@ -10,10 +10,10 @@ npm install batues --save
 
 * `@Name(name: string)`, set the field's name when transform to json.
 * `@Ignore`, ignore field when transform to json.
-* `@If<V = any>(callback: (value: V) => boolean)`, only include field when success to passed the callback
+* `@If<V = any>(callback: (value: V) => boolean)`, only include field when success to passed the callback.
 
 ## How to transform
-* `toJSON`, transform to json
+* `toJSON`, transform to json.
 
 ## Example
 ```ts
